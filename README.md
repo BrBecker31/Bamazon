@@ -2,7 +2,7 @@
 
 Welcome to Bamazon Marketplace! As a customer You will be able to navigate the CLI to select not only the items you want but the quantity as well. This application is built using Node.js and MySQL. npm packages used for user interactivity, presentation, and functionality include: mySQL, inquirer, and console.table.
 
-##Instructions:
+## Instructions:
 Please clone the git repository and then open files in a text editor.
 You will need to open bamazonCutomer.js and put your user password for MySQL and import the database.
 Next, open up your terminal window and type the following: node bamazonCustomer.js
